@@ -1,0 +1,20 @@
+body {
+  font-family: 'Karla', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+
+  background:  url(https://media.giphy.com/media/lLDo8bh22DOZa/giphy.gif) no-repeat center center fixed;
+  background-size: cover;
+
+
+  font-size: 18px;
+  line-height: 1.3em;
+}
+
+.title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: white;
+}
