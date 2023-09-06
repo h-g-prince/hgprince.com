@@ -11,15 +11,20 @@ body {
   line-height: 1.3em;
 }
 
-.title {
+div {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
   text-align: center;
-  color: white;
 }
 
 a {
-  color: azure;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+a:hover {
+  color: aqua;
 }
